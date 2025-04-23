@@ -11,7 +11,13 @@ Hesam Rezaee Ahvanouee, Franz Christopher Kunze, Alexander Fay — Ruhr-Universi
 The project introduces a middleware solution that maps **AutomationML (AML)** project descriptions to **Asset Administration Shell (AAS)** submodels, particularly focusing on the **Automation Engineering Submodel** as defined by the Industrial Digital Twin Association (IDTA).
 
 
+
+
+
 ![Mapping - Overview](Mapping.png)
+
+
+
 
 ## 🎯 Purpose
 
@@ -21,12 +27,16 @@ The goal of this project is to enhance interoperability in automation engineerin
 - Implementing a middleware using the **BaSyx Python SDK** to perform this transformation.
 - Validating the approach with a case study.
 
+
+
 ## 🧩 Technologies Used
 
 - **AutomationML (AML)**: XML-based format for data exchange in automation engineering.
 - **Asset Administration Shell (AAS)**: Digital representation of assets following the Industry 4.0 paradigm.
 - **BaSyx Python SDK**: SDK provided by Eclipse BaSyx for working with AAS.
 - **Python 3.9+**
+
+
 
 ## 🧰 Dependencies
 
@@ -40,6 +50,8 @@ This project leverages the **BaSyx Python SDK**, developed by the Eclipse BaSyx 
 - Utilities for developing AAS-based applications
 
 > **Note:** Make sure to install this dependency using `pip` or clone the repo as part of your development environment.
+
+
 
 
 
@@ -57,6 +69,7 @@ This project leverages the **BaSyx Python SDK**, developed by the Eclipse BaSyx 
 └── README.md              # Project documentation and usage guide
 
 ```
+
 
 
 
