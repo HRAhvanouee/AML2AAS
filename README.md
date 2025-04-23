@@ -30,7 +30,7 @@ The goal of this project is to enhance interoperability in automation engineerin
 
 To validate our proposed mapping approach, we applied the middleware to a real-world automation project: the **VERA chemical pilot plant** (*Verfahrenstechnische Pilotanlage*), a modular process engineering test facility.
 
-![VERA Pilot Plant - Overview](vera_plant.png)
+![VERA Pilot Plant - Overview](Vera.png)
 
 The **AML project of VERA**, based on standard AutomationML libraries, served as the input for our transformation. This pilot plant includes:
 
