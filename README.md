@@ -40,6 +40,21 @@ This project leverages the **BaSyx Python SDK**, developed by the Eclipse BaSyx 
 
 
 
+## 🛠️ Project Structure
+
+```bash
+📁 aml-to-aas-middleware/
+├── AML2AAS.py             # Main script to run the AML to AAS conversion
+├── AML2AAS_Functions.py   # Core mapping logic and helper functions
+├── AML_Vera.aml           # Input AutomationML file (VERA plant)
+├── XML_Vera.xml           # Alternative or parsed XML version of the AML project
+├── AAS_Vera.aasx          # Output Asset Administration Shell package
+├── Vera.png               # VERA pilot plant image (used in documentation)
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation and usage guide
+
+
+
 ### 📝 Description of Key Files
 
 - **AML2AAS.py**  
