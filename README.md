@@ -6,8 +6,7 @@
 This repository contains the implementation and supplementary materials for the paper:
 
 **"Towards Interoperable Automation Engineering: Mapping AutomationML to AAS Submodels"**  
-Hesam Rezaee Ahvanouee, Franz Christopher Kunze, Alexander Fay — Ruhr-University Bochum 
-Julian Rahm — EPLAN GmbH & Co. KG
+Hesam Rezaee Ahvanouee, Franz Christopher Kunze, Alexander Fay — Ruhr-University Bochum and Julian Rahm — EPLAN GmbH & Co. KG
 
 The project introduces a middleware solution that maps **AutomationML (AML)** project descriptions to **Asset Administration Shell (AAS)** submodels, particularly focusing on the **Automation Engineering Submodel** as defined by the Industrial Digital Twin Association (IDTA).
 
