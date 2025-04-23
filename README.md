@@ -25,6 +25,20 @@ The goal of this project is to enhance interoperability in automation engineerin
 - **BaSyx Python SDK**: SDK provided by Eclipse BaSyx for working with AAS.
 - **Python 3.9+**
 
+## 🧰 Dependencies
+
+### 🔗 [Eclipse BaSyx Python SDK](https://github.com/eclipse-basyx/basyx-python-sdk)
+
+This project leverages the **BaSyx Python SDK**, developed by the Eclipse BaSyx project, which provides essential tools for working with the Asset Administration Shell (AAS) and Digital Twins in Python. The SDK includes:
+
+- AAS metamodel implementation in Python
+- Functionality to create, modify, and serialize AAS submodels
+- REST APIs for interaction with AAS components
+- Utilities for developing AAS-based applications
+
+> **Note:** Make sure to install this dependency using `pip` or clone the repo as part of your development environment.
+
+
 ## 🧪 Use Case
 
 To validate our proposed mapping approach, we applied the middleware to a real-world automation project: the **VERA chemical pilot plant** (*Verfahrenstechnische Pilotanlage*), a modular process engineering test facility.
