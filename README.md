@@ -53,30 +53,8 @@ This project leverages the **BaSyx Python SDK**, developed by the Eclipse BaSyx 
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation and usage guide
 
+```
 
-
-### 📝 Description of Key Files
-
-- **AML2AAS.py**  
-  The main entry point for running the AML to AAS conversion logic.
-
-- **AML2AAS_Functions.py**  
-  Contains all reusable functions and classes that implement the mapping and data handling.
-
-- **AML_Vera.aml**  
-  AutomationML representation of the VERA chemical pilot plant, based on standard AML libraries.
-
-- **XML_Vera.xml**  
-  An alternative or parsed representation of the AML data, possibly for easier manipulation or validation.
-
-- **AAS_Vera.aasx**  
-  The generated Asset Administration Shell package, fully structured based on the Automation Engineering Submodel.
-
-- **Vera.png**  
-  A diagram or photograph of the VERA pilot plant setup, useful for visual reference in the use case.
-
-- **README.md**  
-  This file – it provides an overview of the project, installation instructions, and usage details.
 
 
 
