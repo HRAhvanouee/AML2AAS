@@ -26,7 +26,7 @@ The goal of this project is to enhance interoperability in automation engineerin
 - **BaSyx Python SDK**: SDK provided by Eclipse BaSyx for working with AAS.
 - **Python 3.9+**
 
-## 🧪 Industrial Use Case
+## 🧪 Use Case
 
 To validate our proposed mapping approach, we applied the middleware to a real-world automation project: the **VERA chemical pilot plant** (*Verfahrenstechnische Pilotanlage*), a modular process engineering test facility.
 
