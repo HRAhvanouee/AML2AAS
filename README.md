@@ -11,6 +11,8 @@ Hesam Rezaee Ahvanouee, Franz Christopher Kunze, Alexander Fay — Ruhr-Universi
 The project introduces a middleware solution that maps **AutomationML (AML)** project descriptions to **Asset Administration Shell (AAS)** submodels, particularly focusing on the **Automation Engineering Submodel** as defined by the Industrial Digital Twin Association (IDTA).
 
 
+![Concept - Overview](Concept.png)
+
 ## 🎯 Purpose
 
 The goal of this project is to enhance interoperability in automation engineering by:
