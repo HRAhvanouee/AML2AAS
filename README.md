@@ -26,6 +26,38 @@ The goal of this project is to enhance interoperability in automation engineerin
 - **BaSyx Python SDK**: SDK provided by Eclipse BaSyx for working with AAS.
 - **Python 3.9+**
 
-## 🛠️ Project Structure
+## 🧪 Industrial Use Case
+
+To validate our proposed mapping approach, we applied the middleware to a real-world automation project: the **VERA chemical pilot plant** (*Verfahrenstechnische Pilotanlage*), a modular process engineering test facility.
+
+![VERA Pilot Plant - Overview](vera_plant.png)
+
+The **AML project of VERA**, based on standard AutomationML libraries, served as the input for our transformation. This pilot plant includes:
+
+- 8 process tanks with distinct roles in the chemical workflow
+- Over 70 sensors and 80 actuators
+- A complex interconnecting piping system
+- Standard industrial components from common automation suppliers
+
+The 4 upper tanks of the plant serve as raw material reservoirs or intermediate storage units, feeding processes downstream. The rich structural data encoded in AML—including topology, component hierarchy, and connectivity—was successfully translated into the **Automation Engineering Submodel** format using our middleware.
+
+### ✅ Benefits Demonstrated:
+- **Accurate semantic mapping** of AML elements to AAS submodel elements
+- **Improved consistency** in representing component relationships and functions
+- **Support for lifecycle-wide interoperability**, from design to operation
+- **Reusability** of engineering data across tools and platforms
+- **Compatibility** with AAS-based digital twin frameworks and APIs
+
+This industrial case study proves the feasibility and practical value of our middleware solution, showcasing how AML-based projects can be enriched with AAS features such as security, multi-format support, and lifecycle integration.
+
+## 📬 Contact
+
+For questions, collaboration, or further information, feel free to contact us:
+
+- **Hesam Rezaee Ahvanouee**  
+  Ruhr-University Bochum, Chair of Automation  
+  📧 [hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
+
+
 
 
