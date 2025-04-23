@@ -16,7 +16,7 @@ The goal of this project is to enhance interoperability in automation engineerin
 - Analyzing the semantic structures of AML and AAS.
 - Mapping AML Component Descriptions to the Automation Engineering Submodel.
 - Implementing a middleware using the **BaSyx Python SDK** to perform this transformation.
-- Validating the approach with an industrial case study.
+- Validating the approach with a case study.
 
 ## 🧩 Technologies Used
 
@@ -50,7 +50,6 @@ This project leverages the **BaSyx Python SDK**, developed by the Eclipse BaSyx 
 ├── XML_Vera.xml           # Alternative or parsed XML version of the AML project
 ├── AAS_Vera.aasx          # Output Asset Administration Shell package
 ├── Vera.png               # VERA pilot plant image (used in documentation)
-├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation and usage guide
 
 ```
@@ -67,7 +66,7 @@ To validate our proposed mapping approach, we applied the middleware to a real-w
 The **AML project of VERA**, based on standard AutomationML libraries, served as the input for our transformation. This pilot plant includes:
 
 - 8 process tanks with distinct roles in the chemical workflow
-- Over 70 sensors and 80 actuators
+- various sensors and actuators
 - A complex interconnecting piping system
 - Standard industrial components from common automation suppliers
 
@@ -80,7 +79,7 @@ The 4 upper tanks of the plant serve as raw material reservoirs or intermediate 
 - **Reusability** of engineering data across tools and platforms
 - **Compatibility** with AAS-based digital twin frameworks and APIs
 
-This industrial case study proves the feasibility and practical value of our middleware solution, showcasing how AML-based projects can be enriched with AAS features such as security, multi-format support, and lifecycle integration.
+This case study proves the feasibility and practical value of our middleware solution, showcasing how AML-based projects can be enriched with AAS features such as security, multi-format support, and lifecycle integration.
 
 ## 📬 Contact
 
