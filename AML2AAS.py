@@ -12,7 +12,7 @@ file_store = aasx.DictSupplementaryFileContainer()
 
 # Define paths
 xml_path = r"C:\Users\Rezaee\Desktop\Files\RUB\Paper\4 - ETFA 2025\VERA\XML_Vera.xml"
-aas_path = r"C:\Users\Rezaee\Desktop\Files\RUB\Paper\4 - ETFA 2025\VERA\AAS_Vera1.aasx"
+aas_path = r"C:\Users\Rezaee\Desktop\Files\RUB\Paper\4 - ETFA 2025\VERA\AAS_Vera.aasx"
 
 # Extract internal elements and create AAS with submodels
 internal_elements = aml2aas.extract_internal_elements(xml_path)
