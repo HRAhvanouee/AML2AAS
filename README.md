@@ -20,5 +20,5 @@ AutomationML (AML): XML-based format for data exchange in automation engineering
 Asset Administration Shell (AAS): Digital representation of assets following the Industry 4.0 paradigm.
 
 BaSyx Python SDK: SDK provided by Eclipse BaSyx for working with AAS.
-
+ 
 Python 3.9+
